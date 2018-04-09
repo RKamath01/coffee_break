@@ -31,6 +31,12 @@ h1{
       }
       a{
       color: white;}
+article{
+  padding: 50px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  max-width: 500px;
+}
 h2 {
   color:#4d2600;
   border: 10px white;
