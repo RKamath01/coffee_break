@@ -45,23 +45,33 @@ div#newsletter p{
   color: black;
 }
 div#social-buttons {
-  margin: 20px 0px 20px 10px;
 
-  color: white;
+  margin: 50px 0px 0px 450px;
+
+}
+h3{
+  margin-left: 40px;
 }
 .btn-twitter{
   background-color: #00acee;
-  border-color:#009ad5;
+  border-color:black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
+
 
 }
 .btn-facebook{
   background-color: #4868ac;
-  border-color: #314776;
+  border-color: black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
 
 }
 
 .btn-pinterest{
   background-color: #b62f26;
-  border-color: #b62f26;
+  border-color: black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
 
 }
