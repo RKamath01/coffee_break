@@ -51,8 +51,8 @@ div#newsletter p{
   color: black;
 }
 div#social-buttons {
-
-  margin: 50px 0px 0px 450px;
+  margin: 0px auto;
+max-width: 300px;
 
 }
 h3{
