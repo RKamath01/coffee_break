@@ -25,3 +25,29 @@ li {
    }
    a{
    color: white;}
+
+article{
+  text-align: center;
+  margin: 0px, auto;
+  padding-top: 10px;
+}
+img{
+  style = width: 300px; height: 500px;
+border-radius: 20px;
+padding-top:10px;
+
+
+margin: 0px auto;
+
+}
+.origin ul{
+    padding: 0px 10px 0px 10px
+}
+
+.origin li {
+  display: run-in;
+  font-size: 17px;
+
+
+
+}
