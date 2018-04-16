@@ -41,13 +41,58 @@ margin: 0px auto;
 
 }
 .origin ul{
-    padding: 0px 10px 0px 10px
+
+    text-align:left;
 }
 
 .origin li {
   display: run-in;
-  font-size: 17px;
+  font-size: 16.5px;
+  padding: 0px;
+  margin-bottom: 70px;
 
+}
 
+div#newsletter{
+  padding-top: 10px;
+  border: 20px #4d2600;
+
+}
+div#newsletter p{
+  color: black;
+  margin-left: 0px;
+}
+div#submit {
+  margin: 0px auto;
+}
+div#social-buttons {
+border: 10px;
+border-color:#4d2600;
+max-width: 300px;
+}
+h4{
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.btn-twitter{
+  background-color:#00acee;
+  border-color:black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
+}
+.btn-facebook{
+  background-color:#4868ac;
+  border-color: black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
+
+}
+
+.btn-pinterest{
+  background-color:#b62f26;
+  border-color: black;
+  font-family:'Montserrat', sans-serif;
+  color: white;
 
 }
