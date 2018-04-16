@@ -35,7 +35,7 @@ border-radius: 20px;
 padding-top:10px;
 
 }
-.origin ol{
+.origin ul{
   display:block;
     font-size: 20px;
     padding: 0px 10px 0px 10px
@@ -44,4 +44,5 @@ padding-top:10px;
 .origin li {
   padding-bottom: 20px;
   margin: 0px auto;
+
 }
