@@ -43,11 +43,10 @@ img {
   margin-bottom: 20px;
 }
 p{
-  padding-left: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
 
-  div {
-    margin: 0px, auto;
-  }
+
   div#newsletter{
     padding-top: 10px;
     border: 20px #4d2600;
@@ -61,6 +60,7 @@ p{
     margin: 0px auto;
   }
   div#social-buttons {
+
   border: 10px;
   border-color:#4d2600;
   max-width: 300px;
@@ -71,10 +71,12 @@ p{
   }
 
   .btn-twitter{
-    background-color:#00acee;
+    background-color:red;
     border-color:black;
     font-family:'Montserrat', sans-serif;
     color: white;
+
+
   }
   .btn-facebook{
     background-color:#4868ac;
